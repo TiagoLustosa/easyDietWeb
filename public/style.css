@@ -11,6 +11,10 @@ body {
     line-height: 1.5;
 }
 
+.imagens {
+    height: 30rem;
+}
+
 a {
     text-decoration: none;
     color: #001aff;
@@ -50,9 +54,7 @@ div {
 }
 
 
-img {
-    height: 30rem;
-}
+
 
 main {
     max-width: 800px;
